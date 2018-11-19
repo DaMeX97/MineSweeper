@@ -1,9 +1,9 @@
 # MineSweeper
 
-MineSweeper game project for [PROGRAMMAZIONE MOD. 2](https://www.unive.it/data/insegnamento/230202) - UniVE.
+MineSweeper game project for [PROGRAMMING PART 2](https://www.unive.it/data/insegnamento/230202) - University of Venice.
 
 Execution: 
-  - Clone the project and open the terminal in the directory
+  - Clone the project, open a terminal and navigate to the directory
   - Type:
     ```bash
     make CampoMinato
